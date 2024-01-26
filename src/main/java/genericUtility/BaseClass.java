@@ -72,7 +72,7 @@ public class BaseClass {
 	public void amConfig() {
 		HomePage home = new HomePage(driver);
 		home.logoutAction();
-
+/// 
 	}
 
 	@AfterClass
